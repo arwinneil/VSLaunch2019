@@ -7,6 +7,8 @@ namespace MachineLearning
     {
         private static void Main(string[] args)
         {
+            //Cool demo bro
+            //But it needs more miku
 
             #region Demo
 
