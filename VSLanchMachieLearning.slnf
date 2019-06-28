@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "VSLaunch.sln",
+    "projects": [
+      "MachineLearning\\MachineLearning.csproj",
+      "VSLaunch\\VSLaunch\\VSLaunch.csproj"
+    ]
+  }
+}
